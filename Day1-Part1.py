@@ -10,4 +10,3 @@ print('Floor Devision:\t', a, '%', b, '=', a//b)
 print('Modulo:\t', a, '~', b, '=', a % b)
 
 print('Exponent:\t', a, '^2 =', a**b, sep ='')
-
